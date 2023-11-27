@@ -5,6 +5,5 @@
 # GIT ?
 * It stands for "Global Information Tracker" which used for software development and other collaborative projects. Git is a Version Control System or also known as VCS. 
 VCS is basically software designed to record changes within one or more files over time. 
-* Its an open source
 * Git has Intergrity.
 
