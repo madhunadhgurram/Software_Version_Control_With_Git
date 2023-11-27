@@ -8,4 +8,4 @@ VCS is basically software designed to record changes within one or more files ov
 * Git has Intergrity.
 
 # Jenkins ?
-Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the Java programming language. It is used to implement CI/CD workflows, called pipelines.
+* Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the Java programming language. It is used to implement CI/CD workflows, called pipelines.
