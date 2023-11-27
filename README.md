@@ -9,4 +9,4 @@ VCS is basically software designed to record changes within one or more files ov
 
 # Jenkins ?
 * Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the Java programming language. It is used to implement CI/CD workflows, called pipelines.
-# *Test, Build, Deploy cycle; a structured progression of work steps from developing code to testing that code, to building a release version of that code, which is then deployed in a production environment.
+# Test, Build, Deploy cycle; a structured progression of work steps from developing code to testing that code, to building a release version of that code, which is then deployed in a production environment.
