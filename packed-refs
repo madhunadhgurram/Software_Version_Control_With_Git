@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+5af954f7deae744b11da28e575bf567dc9ce3023 refs/remotes/origin/ansible-sonar
+2820782fa3f84f23a6968bf988ddfd2d49eb1e94 refs/remotes/origin/backup
+1704c79fc824a419f2341a9f47ae348295ddcb8e refs/remotes/origin/demo
+1704c79fc824a419f2341a9f47ae348295ddcb8e refs/remotes/origin/demo-hbc
+c903fcd7d24fec8dd0c3caddaa665dc3685b0ef6 refs/remotes/origin/dependabot/maven/junit-junit-4.13.1
+8f23df9fd95a5a254c36dfc431828c166fdf8a96 refs/remotes/origin/develop-weekend
+c9be355511e0f6240efcb710a8a6f5cd14ebd60b refs/remotes/origin/development
+0e76dd91b5f75141e276e336349f58ba2730b2bb refs/remotes/origin/feature/adding-ui-block
+c5a0680d7d815120ea7aa8d5c95da56509fb2c14 refs/remotes/origin/feature/demo
+f7da9c5077ce5b5420be546f7d2065cf11868a22 refs/remotes/origin/feature/jenkinsfile
+385a0e932651d7443d626f80833497d600d1f301 refs/remotes/origin/feature/jenkinsfile-update
+a496bb72f09d46f58dba9306987cd0e509f940f8 refs/remotes/origin/feature/post
+1cb83650f03388c6bf121f2d82b9b137f008e0c2 refs/remotes/origin/feature/testing
+d2af91474cadad2bf5e52870792ec9d5df5c1d77 refs/remotes/origin/github-apps
+1024bc8d7dc21b75b8af0bde0bfd4e8edeb419ca refs/remotes/origin/hbc/weekday
+96525b5bb153517e2e32c7775dd52e0547d9672d refs/remotes/origin/jenkins-demo
+a1cf104d9257bd2ef6f3a28be56341795f11ed4e refs/remotes/origin/jenkins-docker
+753f7c8af87e81b20ebd2ad2fcc6b15791ae6c76 refs/remotes/origin/master
+64565328e1fd7e356894a8551bc4254a4f8b5c93 refs/remotes/origin/no-jenkinsfile
+76bc9975a6ec17aa579c750dbd6de76d2cd95c1d refs/remotes/origin/pr-test
+0f2ea5d83445c185fac6560c250a0b773f6b906a refs/remotes/origin/pr-test-weekend
+dde8c3cd1e6c783ffb6ca494c3114f76fd9aa388 refs/remotes/origin/sonar-jenkins
+a38162e6ac05357787c2cfcea0fc5ed2e599e85c refs/remotes/origin/toolsMVN
