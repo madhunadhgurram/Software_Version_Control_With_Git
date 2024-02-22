@@ -3,3 +3,5 @@ GIT,which stands for Global Information Tracker, used for software development a
 # Version Control System
 Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code.
 
+First we need to create two instances Using EC2 in AWS or VMWare.
+![image](https://github.com/MadhunadhGurram/My_Project/assets/84019306/e01c7f54-0fec-4a04-8910-f06c40afd445)
