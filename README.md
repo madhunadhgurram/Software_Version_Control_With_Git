@@ -1,6 +1,5 @@
 # Amazon Web Services EC2
-Amazon Elastic Compute Cloud (Amazon EC2), commonly known as EC2, is a fundamental component of Amazon Web Services (AWS). 
-Amazon EC2 provides on-demand, resizable compute capacity in the AWS Cloud.
+Amazon Elastic Compute Cloud (Amazon EC2), commonly known as EC2, is a fundamental component of Amazon Web Services(AWS). It provides on-demand, resizable compute capacity in the AWS Cloud.
 It allows you to launch virtual servers (known as instances) as needed.
 EC2 reduces hardware costs, accelerates application development, and simplifies deployment.
 # GIT
