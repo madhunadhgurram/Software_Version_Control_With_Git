@@ -1,4 +1,4 @@
-✅ PROJECT - SOFTWARE VERSION CONTROL WITH GIT
+# ✅ PROJECT - SOFTWARE VERSION CONTROL WITH GIT
 
  At first, we cloned a web application from a GitHub Repo.
 
@@ -7,7 +7,7 @@
  Later, we tracked those changes using a VCS (like Git).
 
 ### Difficulties faced ??
-While hosting the web application through Jenkins, I faced errors during the installation of Jenkins and Apache Tomcat due to differences in command syntax across Ubuntu and other Linux environments. I resolved these issues by researching online and seeking help from my mentor.
+> While hosting the web application through Jenkins, I faced errors during the installation of Jenkins and Apache Tomcat due to differences in command syntax across Ubuntu and other Linux environments. I resolved these issues by researching online and seeking help from my mentor.
 
 ### What did you learn from these challenges ??
 > I learned that when we get stuck, it’s important not to give up but to keep trying different solutions until we find what works.
