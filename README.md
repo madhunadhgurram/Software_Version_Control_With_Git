@@ -1,3 +1,19 @@
+✅ PROJECT - SOFTWARE VERSION CONTROL WITH GIT
+
+ At first, we cloned a web application from a GitHub Repo.
+
+ And we made changes to the code (such as modifying the data and all).
+
+ Later, we tracked those changes using a VCS (like Git).
+
+Difficulties faced ??
+While hosting the web application through Jenkins, I faced errors during the installation of Jenkins and Apache Tomcat due to differences in command syntax across Ubuntu and other Linux environments. I resolved these issues by researching online and seeking help from my mentor.
+
+What did you learn from these challenges ??
+1. I learned that when we get stuck, it’s important not to give up but to keep trying different solutions until we find what works.
+
+2. I also realized that discussing problems with others can bring in new perspectives and creative solutions that I might not have thought of alone.
+
 # Amazon Web Services EC2
 Amazon Elastic Compute Cloud (Amazon EC2), commonly known as EC2, is a fundamental component of Amazon Web Services(AWS). It provides on-demand, resizable compute capacity in the AWS Cloud.
 It allows you to launch virtual servers (known as instances) as needed.
